@@ -1,0 +1,19 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 50" width="120" height="50">
+	<title>image</title>
+	<defs>
+		<filter x="-50%" y="-50%" width="200%" height="200%" id="f1"> <feGaussianBlur stdDeviation="10"/> </filter>
+		<linearGradient id="g1" x1="20" y1="21" x2="100" y2="21" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#18b57f" stop-opacity="0"/>
+			<stop offset=".5" stop-color="#ffffff" stop-opacity=".73"/>
+			<stop offset="1" stop-color="#18b57f" stop-opacity="0"/>
+		</linearGradient>
+	</defs>
+	<style>
+		.s0 { opacity: .4;filter: url(#f1);fill: #1bb6ab } 
+		.s1 { opacity: .7;fill: url(#g1) } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" fill-rule="evenodd" class="s0" d="m60 30c22.1 0 40-4.5 40-10h-80c0 5.5 17.9 10 40 10z"/>
+	</g>
+	<path id="Layer" class="s1" d="m20 20h80v1h-80z"/>
+</svg>

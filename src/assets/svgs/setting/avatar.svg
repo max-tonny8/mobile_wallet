@@ -1,0 +1,17 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 14 14" width="14" height="14">
+	<title>image</title>
+	<defs>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m0 0h14v14h-14z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s0" d="m7 3.2l-2.7 2.7-1.6-1.6 4.3-4.3 4.3 4.3-1.6 1.6zm-3.8 3.8l-1.6 1.6-1.6-1.6 1.6-1.6zm1.1 1.2l2.7 2.7 2.8-2.7 1.5 1.5-4.3 4.3-4.3-4.3zm9.8-1.1l-1.6 1.6-1.6-1.6 1.6-1.6z"/>
+			<path id="Layer" class="s0" d="m8.6 7l-1.6-1.6-1.2 1.2-0.1 0.1-0.3 0.3 1.6 1.6 1.6-1.6q0 0 0 0z"/>
+		</g>
+	</g>
+</svg>

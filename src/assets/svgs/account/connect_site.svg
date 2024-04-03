@@ -1,0 +1,7 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 30 30" width="30" height="30">
+	<title>image</title>
+	<style>
+		.s0 { fill: #ffffff } 
+	</style>
+	<path id="Layer" fill-rule="evenodd" class="s0" d="m15 24c-5 0-9-4-9-9 0-5 4-9 9-9 5 0 9 4 9 9 0 5-4 9-9 9zm0-16.2c-4 0-7.2 3.2-7.2 7.2 0 4 3.2 7.2 7.2 7.2 4 0 7.2-3.2 7.2-7.2 0-4-3.2-7.2-7.2-7.2zm3 7.2c0 1.7-1.3 3-3 3-1.7 0-3-1.3-3-3 0-1.7 1.3-3 3-3 1.7 0 3 1.3 3 3z"/>
+</svg>

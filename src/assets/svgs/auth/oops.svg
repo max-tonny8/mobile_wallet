@@ -1,0 +1,40 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 227 227" width="227" height="227">
+	<title>image</title>
+	<defs>
+		<linearGradient id="g1" x1="37.1" y1="0" x2="198.1" y2="194" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#20a9a0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#20a9a0" stop-opacity=".65"/>
+		</linearGradient>
+		<linearGradient id="g2" x1="58" y1="31" x2="175" y2="172" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#20a9a0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#20a9a0" stop-opacity=".65"/>
+		</linearGradient>
+		<linearGradient id="g3" x1="75.7" y1="56" x2="156.5" y2="153.4" gradientUnits="userSpaceOnUse">
+			<stop offset="0" stop-color="#20a9a0" stop-opacity="1"/>
+			<stop offset="1" stop-color="#20a9a0" stop-opacity=".65"/>
+		</linearGradient>
+		<clipPath clipPathUnits="userSpaceOnUse" id="cp1">
+			<path d="m85 84h59v59h-59z"/>
+		</clipPath>
+	</defs>
+	<style>
+		.s0 { opacity: .1;fill: url(#g1) } 
+		.s1 { opacity: .1;fill: url(#g2) } 
+		.s2 { fill: url(#g3) } 
+		.s3 { fill: none;stroke: #ffffff;stroke-linecap: round;stroke-linejoin: round;stroke-width: 5.7 } 
+	</style>
+	<g id="Layer">
+		<path id="Layer" class="s0" d="m113.5 227c-62.8 0-113.5-50.7-113.5-113.5 0-62.8 50.7-113.5 113.5-113.5 62.8 0 113.5 50.7 113.5 113.5 0 62.8-50.7 113.5-113.5 113.5z"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s1" d="m113.5 196c-45.6 0-82.5-36.9-82.5-82.5 0-45.6 36.9-82.5 82.5-82.5 45.6 0 82.5 36.9 82.5 82.5 0 45.6-36.9 82.5-82.5 82.5z"/>
+	</g>
+	<g id="Layer">
+		<path id="Layer" class="s2" d="m114 170c-31.5 0-57-25.5-57-57 0-31.5 25.5-57 57-57 31.5 0 57 25.5 57 57 0 31.5-25.5 57-57 57z"/>
+	</g>
+	<g id="Clip-Path" clip-path="url(#cp1)">
+		<g id="Layer">
+			<path id="Layer" fill-rule="evenodd" class="s3" d="m98.8 98.8l29.5 29.5m-29.5 0l29.5-29.5"/>
+		</g>
+	</g>
+</svg>
